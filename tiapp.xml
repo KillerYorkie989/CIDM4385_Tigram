@@ -2,7 +2,7 @@
 <ti:app xmlns:ti="http://ti.appcelerator.org">
     <property name="acs-api-key-production" type="string">L7a6ZEpkVx6xeHdMnRB6wa2Z7vbJ8M2u</property>
     <property name="acs-api-key-development" type="string">Wdb6kBM0erEMxKZanhoyV59d2AZGXSrX</property>
-    <id>edu.wtamu.cis.cidm4385.CIDM4385_Tigram</id>
+    <id>edu.wtamu.cis.cidm4385.CIDM4385Tigram</id>
     <name>CIDM4385_Tigram</name>
     <version>1.0</version>
     <publisher>ky955684</publisher>
